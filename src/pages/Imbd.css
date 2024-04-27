@@ -1,0 +1,17 @@
+.imbd{
+    text-align: center;
+    margin-top: 30px;
+    
+
+}
+.imbd button{
+    border:none;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+    background-color: tomato;
+    font-size: 15px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}

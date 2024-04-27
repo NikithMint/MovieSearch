@@ -1,0 +1,9 @@
+.Footer{
+    font-size: large;
+    bottom: 0%;
+    border-bottom: 4px solid blue;
+    border-top: 4px solid blue;
+    line-height: 200%;
+    background-color:bisque;
+    text-align: center;
+}

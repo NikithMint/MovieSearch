@@ -1,0 +1,37 @@
+.Movie{
+    display: inline-block;
+    margin-top: 1em;
+    margin-bottom: 10em;
+    margin-left: 40px;
+    margin-right: 40px;
+    
+
+}
+#title{
+    text-align: center;
+    font-size: 15px;
+}
+#moviebutton{
+    border:none;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+    background-color: tomato;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.dropdown2{
+    margin-top: 30px;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    width: 10%;
+    height: 42px;
+    margin-bottom: 30px;
+
+    
+}
+.dropdown1{
+    text-align: center;
+}

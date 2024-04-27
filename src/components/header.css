@@ -1,0 +1,15 @@
+.Header{
+    display: flex;
+    gap: 3rem;
+    line-height: 380%;
+    border-bottom: 4px solid red;
+    border-top: 4px solid red;
+    background-color:bisque;
+    font-style: italic;
+}
+#logo{
+    height: 60px;
+    border-radius: 50%;
+    
+    
+}
